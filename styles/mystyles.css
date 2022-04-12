@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(205, 228, 252);
+}
+
+.fontcolor {
+    color: rgb(255, 235, 119);
+}
+
+.fontfamily {
+    font-family: fantasy;
+}
+
+.bolderfont {
+    font-weight: bolder;
+}
+
+.bgcolors {
+    background-color: rgb(233, 233, 229);
+}
